@@ -1,4 +1,4 @@
-public class range{
+public class Range{
     public static void main(String[] args){
         System.out.println("The range of byte is from " + Byte.MIN_VALUE + " to " + Byte.MAX_VALUE);
         System.out.println("The range of short is from " + Short.MIN_VALUE + " to " + Short.MAX_VALUE);
